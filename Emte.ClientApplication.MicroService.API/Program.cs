@@ -7,7 +7,7 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 var configurationBuilder = new ConfigurationBuilder()
                 .SetBasePath(builder.Environment.ContentRootPath)
-                .AddJsonFile(@"appsettings.json", optional: true, reloadOnChange: true)
+                .AddJsonFile(@"appsettings.Local.json", optional: true, reloadOnChange: true)
                 .AddJsonFile($@"appsettings.{builder.Environment.EnvironmentName}.json", optional: true, reloadOnChange: true)
                 .AddEnvironmentVariables();
 
