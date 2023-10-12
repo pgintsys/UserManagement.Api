@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Emte.UserManagement.BusinessLogic.Contracts/1.0.0": {
+        "dependencies": {
+          "Emte.UserManagement.DomainModels": "1.0.0",
+          "Emte.UserManagement.Models": "1.0.0"
+        },
+        "runtime": {
+          "Emte.UserManagement.BusinessLogic.Contracts.dll": {}
+        }
+      },
+      "Emte.Core.Authentication.Contract/1.0.0": {
+        "runtime": {
+          "Emte.Core.Authentication.Contract.dll": {}
+        }
+      },
+      "Emte.Core.DomainModels/1.0.0": {
+        "runtime": {
+          "Emte.Core.DomainModels.dll": {}
+        }
+      },
+      "Emte.UserManagement.DomainModels/1.0.0": {
+        "dependencies": {
+          "Emte.Core.DomainModels": "1.0.0"
+        },
+        "runtime": {
+          "Emte.UserManagement.DomainModels.dll": {}
+        }
+      },
+      "Emte.UserManagement.Models/1.0.0": {
+        "dependencies": {
+          "Emte.Core.Authentication.Contract": "1.0.0"
+        },
+        "runtime": {
+          "Emte.UserManagement.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Emte.UserManagement.BusinessLogic.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emte.Core.Authentication.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emte.Core.DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emte.UserManagement.DomainModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emte.UserManagement.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

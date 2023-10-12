@@ -1,0 +1,12 @@
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/bin/Debug/net7.0/Emte.Core.Authentication.Contract.deps.json
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/bin/Debug/net7.0/Emte.Core.Authentication.Contract.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/bin/Debug/net7.0/Emte.Core.Authentication.Contract.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.csproj.AssemblyReference.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.AssemblyInfoInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.AssemblyInfo.cs
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.csproj.CoreCompileInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/refint/Emte.Core.Authentication.Contract.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/Emte.Core.Authentication.Contract.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Authentication.Contract/obj/Debug/net7.0/ref/Emte.Core.Authentication.Contract.dll

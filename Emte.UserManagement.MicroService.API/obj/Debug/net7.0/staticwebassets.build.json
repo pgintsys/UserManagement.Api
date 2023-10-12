@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XOtW7Dd3Z8ulyeZg93b0Y8caHgsYE6vAAmPRz6A+Elg=",
+  "Source": "Emte.UserManagement.MicroService.API",
+  "BasePath": "_content/Emte.UserManagement.MicroService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

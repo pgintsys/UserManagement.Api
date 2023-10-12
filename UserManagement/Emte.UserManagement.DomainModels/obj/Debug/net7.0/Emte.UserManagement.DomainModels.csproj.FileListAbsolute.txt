@@ -1,0 +1,15 @@
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/bin/Debug/net7.0/Emte.UserManagement.DomainModels.deps.json
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/bin/Debug/net7.0/Emte.UserManagement.DomainModels.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/bin/Debug/net7.0/Emte.UserManagement.DomainModels.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/bin/Debug/net7.0/Emte.Core.DomainModels.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/bin/Debug/net7.0/Emte.Core.DomainModels.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.csproj.AssemblyReference.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.AssemblyInfoInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.AssemblyInfo.cs
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.csproj.CoreCompileInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.csproj.CopyComplete
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/refint/Emte.UserManagement.DomainModels.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/Emte.UserManagement.DomainModels.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/UserManagement/Emte.UserManagement.DomainModels/obj/Debug/net7.0/ref/Emte.UserManagement.DomainModels.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Emte.UserManagement.MicroService.API.props" />
+</Project>

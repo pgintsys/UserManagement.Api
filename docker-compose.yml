@@ -1,0 +1,35 @@
+version: '3.4'
+volumes:
+  datafiles:
+
+services:
+  db:
+    image: mysql
+    volumes:
+      - datafiles:/var/lib/mysql
+    ports:
+      - 3306:3306
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 1234
+    networks:
+      - emte_core
+  emteusermanagementmicroserviceapi:
+    image: ${DOCKER_REGISTRY-}emteusermanagementmicroservice
+    build:
+      context: .
+      dockerfile: Emte.UserManagement.MicroService.API/Dockerfile
+    depends_on:
+      - db
+    ports:
+      - "5017:80"
+    restart: always
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - DBHOST=db
+    networks:
+      - emte_core
+networks:
+ emte_core:
+  driver: bridge
+

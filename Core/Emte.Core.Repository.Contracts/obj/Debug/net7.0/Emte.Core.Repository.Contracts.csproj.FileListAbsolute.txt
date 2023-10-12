@@ -1,0 +1,17 @@
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.Repository.Contracts.deps.json
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.Repository.Contracts.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.Repository.Contracts.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.DataAccess.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.DomainModels.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.DomainModels.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/bin/Debug/net7.0/Emte.Core.DataAccess.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.csproj.AssemblyReference.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.AssemblyInfoInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.AssemblyInfo.cs
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.csproj.CoreCompileInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.csproj.CopyComplete
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/refint/Emte.Core.Repository.Contracts.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/Emte.Core.Repository.Contracts.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Repository.Contracts/obj/Debug/net7.0/ref/Emte.Core.Repository.Contracts.dll

@@ -1,0 +1,15 @@
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/bin/Debug/net7.0/Emte.Core.DataAccess.deps.json
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/bin/Debug/net7.0/Emte.Core.DataAccess.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/bin/Debug/net7.0/Emte.Core.DataAccess.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/bin/Debug/net7.0/Emte.Core.DomainModels.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/bin/Debug/net7.0/Emte.Core.DomainModels.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.csproj.AssemblyReference.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.AssemblyInfoInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.AssemblyInfo.cs
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.csproj.CoreCompileInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.csproj.CopyComplete
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/refint/Emte.Core.DataAccess.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/Emte.Core.DataAccess.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.DataAccess/obj/Debug/net7.0/ref/Emte.Core.DataAccess.dll

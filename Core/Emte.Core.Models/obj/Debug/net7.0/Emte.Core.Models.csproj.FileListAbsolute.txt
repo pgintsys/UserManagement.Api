@@ -1,0 +1,12 @@
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/bin/Debug/net7.0/Emte.Core.Models.deps.json
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/bin/Debug/net7.0/Emte.Core.Models.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/bin/Debug/net7.0/Emte.Core.Models.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.csproj.AssemblyReference.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.AssemblyInfoInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.AssemblyInfo.cs
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.csproj.CoreCompileInputs.cache
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/refint/Emte.Core.Models.dll
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/Emte.Core.Models.pdb
+/Users/vishveshrajrajasekar/hr management-s/Emte.UserManagement.API/Core/Emte.Core.Models/obj/Debug/net7.0/ref/Emte.Core.Models.dll
